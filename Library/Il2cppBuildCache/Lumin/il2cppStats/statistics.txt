@@ -1,0 +1,469 @@
+----IL2CPP Arguments----
+--convert-to-cpp --emit-null-checks --enable-stacktrace --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --libil2cpp-static --platform=Lumin --architecture=ARM64 --configuration=Release --outputpath=C:\Users\wildu\My project\Library/Il2cppBuildCache/Lumin\Native\libil2cpp.so --cachedirectory=C:\Users\wildu\My project\Assets\..\Library\il2cpp_cache/il2cpp_cache --baselib-directory=C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/LuminSupport\Variations/il2cpp/Release/arm64 --avoid-dynamic-library-copy --verbose --enable-stats --stats-output-dir=C:/Users/wildu/My project/Assets/../Library/il2cpp_stats --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/wildu/My project/Temp/StagingArea/Data/Managed --generatedcppdir=C:/Users/wildu/My project/Library/Il2cppBuildCache/Lumin/il2cppOutput --stats-output-dir=C:/Users/wildu/My project/Library/Il2cppBuildCache/Lumin/il2cppStats
+
+----Assemblies Converted-----
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\LuminUnity.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\MagicLeap.MRTK.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\MagicLeapTools.Voice.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Async.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Demos.Audio.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Demos.Gltf.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Demos.InspectorFields.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Demos.UX.Interactables.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Examples.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Gltf.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Providers.OpenXR.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.SDK.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.SDK.Experimental.Interactive.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Services.InputSystem.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Mono.Security.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\mscorlib.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\System.Configuration.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\System.Core.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\System.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\System.Numerics.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\System.Xml.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Unity.Subsystem.Registration.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Unity.XR.ARSubsystems.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Unity.XR.InteractionSubsystems.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\Unity.XR.Management.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.AIModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.AndroidJNIModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.AnimationModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.AssetBundleModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.AudioModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.CoreModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.DirectorModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.GridModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.ImageConversionModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.IMGUIModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.InputLegacyModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.InputModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.JSONSerializeModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.LuminModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.ParticleSystemModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.Physics2DModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.PhysicsModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.SharedInternalsModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.SpatialTracking.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.SpriteShapeModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.SubsystemsModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.TerrainModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.TextCoreModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.TextRenderingModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.TilemapModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.UIElementsNativeModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.UIModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.VFXModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.VideoModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.VRModule.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.XR.MagicLeap.dll
+	C:\Users\wildu\My project\Temp\StagingArea\Data\Managed\UnityEngine.XRModule.dll
+
+----- il2cpp Statistics -----
+General:
+	Conversion Time: 6.567 s
+	Job Count: 16
+	Processor Count: 16
+	Files Written: 396
+	String Literals: 6416
+Methods:
+	Total Methods: 53213
+	Non-Generic Methods: 30098
+	Generic Type Methods: 18803
+	Generic Methods: 4312
+	Shared Methods: 22920
+	Methods with Tail Calls : 0
+Metadata:
+	Total: 4,342.99 kb
+	String Literals: 50.12 kb
+	String Literal Data: 358.71 kb
+	Metadata Strings: 725.05 kb
+	Events: 4.22 kb
+	Properties: 129.61 kb
+	Methods: 1,042.62 kb
+	Parameter Default Values: 7.66 kb
+	Field Default Values: 78.18 kb
+	Field and Parameter Default Values Data: 255.06 kb
+	Field Marshaled Sizes: 22.63 kb
+	Parameters: 389.11 kb
+	Fields: 272.37 kb
+	Generic Parameters: 12.42 kb
+	Generic Parameter Constraints: 1.12 kb
+	Generic Containers: 10.38 kb
+	Nested Types: 6.80 kb
+	Interfaces: 7.90 kb
+	VTables: 213.64 kb
+	Interface Offsets: 45.24 kb
+	Type Definitions: 463.20 kb
+	Images: 2.81 kb
+	Assemblies: 4.50 kb
+	Field Refs: 1.20 kb
+	Referenced Assemblies: 1.65 kb
+	Attribute Types Ranges: 138.12 kb
+	Attribute Types: 80.16 kb
+	Unresolved Virtual Call Parameter Types: 8.74 kb
+	Unresolved Virtual Call Parameter Ranges: 6.19 kb
+	Windows Runtime type names: 0.00 kb
+	Windows Runtime strings: 0.00 kb
+	Exported Types: 3.59 kb
+Codegen:
+	NullChecks : 86816
+Interop:
+	Windows Runtime boxed types : 0
+	Windows Runtime types with names : 0
+	Native to managed interface adapters : 0
+	Array COM callable wrappers : 0
+	COM callable wrappers : 0
+	COM callable wrapper methods that were implemented : 0
+	COM callable wrapper methods that were stripped : 0
+	COM callable wrapper methods that were forwarded to call base class method : 0
+Compilation:
+	Total Files: 429
+	Files Compiled: 14
+	Cache Hits: 415
+	Cache Hit %: 96
+
+
+----Assembly Conversion Times----
+
+----Misc Timing----
+	PreProcessStage: None
+	GenericsCollector.Collect: None
+	WriteGenerics: None
+	AllAssemblyConversion: None
+
+----Generated Files----
+Assembly-CSharp.cpp	528837
+Assembly-CSharp_Attr.cpp	10976
+GenericMethods.cpp	3160781
+GenericMethods1.cpp	3033231
+GenericMethods2.cpp	3000430
+GenericMethods3.cpp	4280078
+GenericMethods4.cpp	1875121
+GenericMethods5.cpp	3333540
+GenericMethods6.cpp	3341446
+GenericMethods7.cpp	4237930
+GenericMethods8.cpp	636767
+Generics.cpp	2616309
+Generics1.cpp	2012874
+Generics10.cpp	3866120
+Generics11.cpp	2354968
+Generics12.cpp	2356977
+Generics13.cpp	1938834
+Generics14.cpp	2186450
+Generics15.cpp	2822187
+Generics16.cpp	3808780
+Generics17.cpp	3535407
+Generics18.cpp	3058238
+Generics19.cpp	1667055
+Generics2.cpp	1979262
+Generics20.cpp	1612801
+Generics21.cpp	1599096
+Generics22.cpp	1586101
+Generics23.cpp	2133886
+Generics24.cpp	2723924
+Generics25.cpp	2408236
+Generics26.cpp	2552376
+Generics27.cpp	2593464
+Generics28.cpp	2712163
+Generics29.cpp	68221
+Generics3.cpp	2693557
+Generics4.cpp	1635437
+Generics5.cpp	1656657
+Generics6.cpp	1650452
+Generics7.cpp	1686171
+Generics8.cpp	1662856
+Generics9.cpp	4332016
+Il2CppCCalculateFieldValues.cpp	7567013
+Il2CppCCalculateFieldValues1.cpp	8357005
+Il2CppCCalculateTypeValues.cpp	10961137
+Il2CppCCalculateTypeValues1.cpp	4089320
+Il2CppCCFieldValuesTable.cpp	311953
+Il2CppCCTypeValuesTable.cpp	510045
+Il2CppCodeRegistration.cpp	11634
+Il2CppGenericAdjustorThunkTable.cpp	1199174
+Il2CppGenericComDefinitions.cpp	173
+Il2CppGenericComDefinitions1.cpp	173
+Il2CppGenericComDefinitions10.cpp	173
+Il2CppGenericComDefinitions11.cpp	173
+Il2CppGenericComDefinitions12.cpp	173
+Il2CppGenericComDefinitions13.cpp	173
+Il2CppGenericComDefinitions14.cpp	173
+Il2CppGenericComDefinitions15.cpp	173
+Il2CppGenericComDefinitions16.cpp	173
+Il2CppGenericComDefinitions17.cpp	173
+Il2CppGenericComDefinitions18.cpp	173
+Il2CppGenericComDefinitions19.cpp	173
+Il2CppGenericComDefinitions2.cpp	173
+Il2CppGenericComDefinitions20.cpp	173
+Il2CppGenericComDefinitions21.cpp	173
+Il2CppGenericComDefinitions22.cpp	173
+Il2CppGenericComDefinitions23.cpp	173
+Il2CppGenericComDefinitions24.cpp	173
+Il2CppGenericComDefinitions25.cpp	173
+Il2CppGenericComDefinitions26.cpp	173
+Il2CppGenericComDefinitions27.cpp	173
+Il2CppGenericComDefinitions28.cpp	173
+Il2CppGenericComDefinitions29.cpp	173
+Il2CppGenericComDefinitions3.cpp	173
+Il2CppGenericComDefinitions30.cpp	173
+Il2CppGenericComDefinitions31.cpp	173
+Il2CppGenericComDefinitions32.cpp	173
+Il2CppGenericComDefinitions33.cpp	173
+Il2CppGenericComDefinitions34.cpp	173
+Il2CppGenericComDefinitions35.cpp	173
+Il2CppGenericComDefinitions36.cpp	173
+Il2CppGenericComDefinitions37.cpp	173
+Il2CppGenericComDefinitions38.cpp	173
+Il2CppGenericComDefinitions39.cpp	173
+Il2CppGenericComDefinitions4.cpp	173
+Il2CppGenericComDefinitions40.cpp	173
+Il2CppGenericComDefinitions41.cpp	173
+Il2CppGenericComDefinitions42.cpp	173
+Il2CppGenericComDefinitions43.cpp	173
+Il2CppGenericComDefinitions44.cpp	173
+Il2CppGenericComDefinitions45.cpp	173
+Il2CppGenericComDefinitions46.cpp	173
+Il2CppGenericComDefinitions47.cpp	173
+Il2CppGenericComDefinitions48.cpp	173
+Il2CppGenericComDefinitions49.cpp	173
+Il2CppGenericComDefinitions5.cpp	173
+Il2CppGenericComDefinitions50.cpp	173
+Il2CppGenericComDefinitions51.cpp	173
+Il2CppGenericComDefinitions52.cpp	173
+Il2CppGenericComDefinitions53.cpp	173
+Il2CppGenericComDefinitions54.cpp	173
+Il2CppGenericComDefinitions55.cpp	173
+Il2CppGenericComDefinitions56.cpp	173
+Il2CppGenericComDefinitions57.cpp	173
+Il2CppGenericComDefinitions58.cpp	173
+Il2CppGenericComDefinitions59.cpp	173
+Il2CppGenericComDefinitions6.cpp	173
+Il2CppGenericComDefinitions60.cpp	173
+Il2CppGenericComDefinitions61.cpp	173
+Il2CppGenericComDefinitions62.cpp	173
+Il2CppGenericComDefinitions63.cpp	173
+Il2CppGenericComDefinitions64.cpp	173
+Il2CppGenericComDefinitions65.cpp	173
+Il2CppGenericComDefinitions66.cpp	173
+Il2CppGenericComDefinitions67.cpp	173
+Il2CppGenericComDefinitions68.cpp	173
+Il2CppGenericComDefinitions69.cpp	173
+Il2CppGenericComDefinitions7.cpp	173
+Il2CppGenericComDefinitions70.cpp	173
+Il2CppGenericComDefinitions71.cpp	173
+Il2CppGenericComDefinitions8.cpp	173
+Il2CppGenericComDefinitions9.cpp	173
+Il2CppGenericMethodPointerTable.cpp	5795880
+Il2CppInteropDataTable.cpp	419116
+Il2CppInvokerTable.cpp	7038577
+Il2CppReversePInvokeWrapperTable.cpp	37134
+LuminUnity.cpp	3358586
+LuminUnity_Attr.cpp	877364
+LuminUnity1.cpp	2636480
+LuminUnity2.cpp	3963769
+LuminUnity3.cpp	3645160
+LuminUnity4.cpp	2329567
+MagicLeap.MRTK.cpp	1984480
+MagicLeap.MRTK_Attr.cpp	169925
+MagicLeapTools.Voice.cpp	362542
+MagicLeapTools.Voice_Attr.cpp	48550
+Microsoft.MixedReality.Toolkit.Async.cpp	352487
+Microsoft.MixedReality.Toolkit.Async_Attr.cpp	88324
+Microsoft.MixedReality.Toolkit.cpp	2680127
+Microsoft.MixedReality.Toolkit.Demos.Audio.cpp	72442
+Microsoft.MixedReality.Toolkit.Demos.Audio_Attr.cpp	38148
+Microsoft.MixedReality.Toolkit.Demos.Gltf.cpp	201678
+Microsoft.MixedReality.Toolkit.Demos.Gltf_Attr.cpp	42598
+Microsoft.MixedReality.Toolkit.Demos.InspectorFields.cpp	27771
+Microsoft.MixedReality.Toolkit.Demos.InspectorFields_Attr.cpp	37420
+Microsoft.MixedReality.Toolkit.Demos.UX.Interactables.cpp	144648
+Microsoft.MixedReality.Toolkit.Demos.UX.Interactables_Attr.cpp	41219
+Microsoft.MixedReality.Toolkit.Examples.cpp	3239536
+Microsoft.MixedReality.Toolkit.Examples_Attr.cpp	493621
+Microsoft.MixedReality.Toolkit.Examples1.cpp	3051622
+Microsoft.MixedReality.Toolkit.Examples2.cpp	726959
+Microsoft.MixedReality.Toolkit.Gltf.cpp	1687341
+Microsoft.MixedReality.Toolkit.Gltf_Attr.cpp	127148
+Microsoft.MixedReality.Toolkit.Providers.OpenXR.cpp	853416
+Microsoft.MixedReality.Toolkit.Providers.OpenXR_Attr.cpp	101131
+Microsoft.MixedReality.Toolkit.Providers.XRSDK.cpp	1046215
+Microsoft.MixedReality.Toolkit.Providers.XRSDK_Attr.cpp	70063
+Microsoft.MixedReality.Toolkit.SDK.cpp	2703166
+Microsoft.MixedReality.Toolkit.SDK.Experimental.Interactive.cpp	1765969
+Microsoft.MixedReality.Toolkit.SDK.Experimental.Interactive_Attr.cpp	150908
+Microsoft.MixedReality.Toolkit.SDK_Attr.cpp	1748756
+Microsoft.MixedReality.Toolkit.SDK1.cpp	3341522
+Microsoft.MixedReality.Toolkit.SDK2.cpp	2464170
+Microsoft.MixedReality.Toolkit.SDK3.cpp	3093183
+Microsoft.MixedReality.Toolkit.SDK4.cpp	3000244
+Microsoft.MixedReality.Toolkit.SDK5.cpp	3428358
+Microsoft.MixedReality.Toolkit.SDK6.cpp	3242852
+Microsoft.MixedReality.Toolkit.SDK7.cpp	2922556
+Microsoft.MixedReality.Toolkit.Services.CameraSystem.cpp	193219
+Microsoft.MixedReality.Toolkit.Services.CameraSystem_Attr.cpp	28702
+Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.cpp	690120
+Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem_Attr.cpp	60931
+Microsoft.MixedReality.Toolkit.Services.InputAnimation.cpp	1178580
+Microsoft.MixedReality.Toolkit.Services.InputAnimation_Attr.cpp	133210
+Microsoft.MixedReality.Toolkit.Services.InputSimulation.cpp	2170817
+Microsoft.MixedReality.Toolkit.Services.InputSimulation_Attr.cpp	218642
+Microsoft.MixedReality.Toolkit.Services.InputSystem.cpp	2849843
+Microsoft.MixedReality.Toolkit.Services.InputSystem_Attr.cpp	167820
+Microsoft.MixedReality.Toolkit.Services.InputSystem1.cpp	709493
+Microsoft.MixedReality.Toolkit.Services.SceneSystem.cpp	1039120
+Microsoft.MixedReality.Toolkit.Services.SceneSystem_Attr.cpp	110525
+Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.cpp	200974
+Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem_Attr.cpp	26429
+Microsoft.MixedReality.Toolkit.Services.TeleportSystem.cpp	230487
+Microsoft.MixedReality.Toolkit.Services.TeleportSystem_Attr.cpp	23479
+Microsoft.MixedReality.Toolkit_Attr.cpp	1394718
+Microsoft.MixedReality.Toolkit1.cpp	3249584
+Microsoft.MixedReality.Toolkit2.cpp	3388530
+Microsoft.MixedReality.Toolkit3.cpp	3083851
+Microsoft.MixedReality.Toolkit4.cpp	2786666
+Microsoft.MixedReality.Toolkit5.cpp	751596
+Mono.Security.cpp	149284
+Mono.Security_Attr.cpp	32922
+mscorlib.cpp	2391355
+mscorlib_Attr.cpp	939921
+mscorlib1.cpp	2441991
+mscorlib10.cpp	2431879
+mscorlib11.cpp	2081437
+mscorlib12.cpp	1844740
+mscorlib13.cpp	2105615
+mscorlib14.cpp	2501179
+mscorlib15.cpp	1668850
+mscorlib16.cpp	2214121
+mscorlib17.cpp	2088493
+mscorlib2.cpp	2493221
+mscorlib3.cpp	1930581
+mscorlib4.cpp	2407196
+mscorlib5.cpp	2450817
+mscorlib6.cpp	2399888
+mscorlib7.cpp	2371620
+mscorlib8.cpp	1963557
+mscorlib9.cpp	2030249
+System.Configuration.cpp	52590
+System.Configuration_Attr.cpp	47897
+System.Core.cpp	41721
+System.Core_Attr.cpp	100231
+System.cpp	1843216
+System.Numerics.cpp	148306
+System.Numerics_Attr.cpp	39889
+System.Xml.cpp	6034
+System.Xml_Attr.cpp	52406
+System_Attr.cpp	208107
+System1.cpp	1264178
+System2.cpp	1308778
+System3.cpp	707761
+Unity.Subsystem.Registration.cpp	39963
+Unity.Subsystem.Registration_Attr.cpp	11020
+Unity.TextMeshPro.cpp	2761196
+Unity.TextMeshPro_Attr.cpp	255925
+Unity.TextMeshPro1.cpp	2338800
+Unity.TextMeshPro2.cpp	3570500
+Unity.TextMeshPro3.cpp	2650210
+Unity.TextMeshPro4.cpp	2041662
+Unity.TextMeshPro5.cpp	1233060
+Unity.XR.ARSubsystems.cpp	893528
+Unity.XR.ARSubsystems_Attr.cpp	130506
+Unity.XR.InteractionSubsystems.cpp	123318
+Unity.XR.InteractionSubsystems_Attr.cpp	18420
+Unity.XR.Management.cpp	245612
+Unity.XR.Management_Attr.cpp	62559
+UnityEngine.AIModule.cpp	25819
+UnityEngine.AIModule_Attr.cpp	91571
+UnityEngine.AndroidJNIModule.cpp	679774
+UnityEngine.AndroidJNIModule_Attr.cpp	145928
+UnityEngine.AnimationModule.cpp	333891
+UnityEngine.AnimationModule_Attr.cpp	198406
+UnityEngine.AssetBundleModule.cpp	45567
+UnityEngine.AssetBundleModule_Attr.cpp	95127
+UnityEngine.AudioModule.cpp	217134
+UnityEngine.AudioModule_Attr.cpp	155990
+UnityEngine.CoreModule.cpp	2570880
+UnityEngine.CoreModule_Attr.cpp	1256665
+UnityEngine.CoreModule1.cpp	3003078
+UnityEngine.CoreModule2.cpp	861323
+UnityEngine.cpp	819
+UnityEngine.DirectorModule.cpp	23413
+UnityEngine.DirectorModule_Attr.cpp	87955
+UnityEngine.GridModule.cpp	5732
+UnityEngine.GridModule_Attr.cpp	96510
+UnityEngine.ImageConversionModule.cpp	11871
+UnityEngine.ImageConversionModule_Attr.cpp	88506
+UnityEngine.IMGUIModule.cpp	882706
+UnityEngine.IMGUIModule_Attr.cpp	191955
+UnityEngine.InputLegacyModule.cpp	185371
+UnityEngine.InputLegacyModule_Attr.cpp	100656
+UnityEngine.InputModule.cpp	54656
+UnityEngine.InputModule_Attr.cpp	84902
+UnityEngine.JSONSerializeModule.cpp	45156
+UnityEngine.JSONSerializeModule_Attr.cpp	87830
+UnityEngine.LuminModule.cpp	59590
+UnityEngine.LuminModule_Attr.cpp	97432
+UnityEngine.ParticleSystemModule.cpp	196950
+UnityEngine.ParticleSystemModule_Attr.cpp	150442
+UnityEngine.Physics2DModule.cpp	198415
+UnityEngine.Physics2DModule_Attr.cpp	158989
+UnityEngine.PhysicsModule.cpp	367641
+UnityEngine.PhysicsModule_Attr.cpp	189977
+UnityEngine.SharedInternalsModule.cpp	207727
+UnityEngine.SharedInternalsModule_Attr.cpp	147781
+UnityEngine.SpatialTracking.cpp	196499
+UnityEngine.SpatialTracking_Attr.cpp	31360
+UnityEngine.SpriteShapeModule.cpp	4704
+UnityEngine.SpriteShapeModule_Attr.cpp	87853
+UnityEngine.SubsystemsModule.cpp	240146
+UnityEngine.SubsystemsModule_Attr.cpp	117525
+UnityEngine.TerrainModule.cpp	295134
+UnityEngine.TerrainModule_Attr.cpp	109914
+UnityEngine.TextCoreModule.cpp	337757
+UnityEngine.TextCoreModule_Attr.cpp	147331
+UnityEngine.TextRenderingModule.cpp	266308
+UnityEngine.TextRenderingModule_Attr.cpp	132265
+UnityEngine.TilemapModule.cpp	112197
+UnityEngine.TilemapModule_Attr.cpp	121123
+UnityEngine.UI.cpp	2602017
+UnityEngine.UI_Attr.cpp	342953
+UnityEngine.UI1.cpp	1690853
+UnityEngine.UI2.cpp	2091664
+UnityEngine.UI3.cpp	1624428
+UnityEngine.UIElementsNativeModule.cpp	116026
+UnityEngine.UIElementsNativeModule_Attr.cpp	103645
+UnityEngine.UIModule.cpp	305240
+UnityEngine.UIModule_Attr.cpp	126006
+UnityEngine.UnityAnalyticsModule.cpp	79198
+UnityEngine.UnityAnalyticsModule_Attr.cpp	98485
+UnityEngine.UnityWebRequestModule.cpp	599993
+UnityEngine.UnityWebRequestModule_Attr.cpp	132297
+UnityEngine.VFXModule.cpp	105495
+UnityEngine.VFXModule_Attr.cpp	129979
+UnityEngine.VideoModule.cpp	141783
+UnityEngine.VideoModule_Attr.cpp	125482
+UnityEngine.VRModule.cpp	42543
+UnityEngine.VRModule_Attr.cpp	96777
+UnityEngine.XR.MagicLeap.cpp	2953045
+UnityEngine.XR.MagicLeap_Attr.cpp	206626
+UnityEngine.XRModule.cpp	754704
+UnityEngine.XRModule_Attr.cpp	177499
+UnityEngine_Attr.cpp	10954
+UnresolvedVirtualCallStubs.cpp	810740
+

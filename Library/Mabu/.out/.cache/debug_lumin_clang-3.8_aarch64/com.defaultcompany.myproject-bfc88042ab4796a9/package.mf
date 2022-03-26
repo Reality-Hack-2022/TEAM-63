@@ -1,0 +1,290 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/wildu/MagicLeap/mlsdk/v0.26.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3285d554ec453e7848da67db74aafa290927b932",
+   "xfrm_path": "C:/Users/wildu/My project/Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.myproject-bfc88042ab4796a9\\libc++_shared.so-37b673dcc4cf7c70",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "e702f31a21c8446e0d9513b9f4a3261930531e75",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 4447480,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "2b9b234152e8b6ad3fd7610cc2c0c176fec31b92",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 80611344,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "16eee23be777eecef8b7f398a2e517fda13fe81d",
+   "xfrm_path": "C:/Users/wildu/My project/Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.myproject-bfc88042ab4796a9\\libil2cpp.so-b57febc72a079c59",
+   "xfrm_size": 80612102
+  },
+  {
+   "compression": 8,
+   "hash": "4fad385385921cb4cd3169bc67c7f3ed20167fce",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3980544,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "67a8f4ed0aef4697cb6d38017cdc87dbe275dbb8",
+   "xfrm_path": "C:/Users/wildu/My project/Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.myproject-bfc88042ab4796a9\\UnityMagicLeap.so-f348c2bffad72292",
+   "xfrm_size": 3981302
+  },
+  {
+   "compression": 8,
+   "hash": "945947c240a70d048c370a4fa6b0dd415d6c3aab",
+   "pkgpath": "bin/libml_bluetoothle_plugin.so",
+   "size": 14136,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Plugins/libml_bluetoothle_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "efa17910b446ec9c75f06e26a818ec198a998f6b",
+   "xfrm_path": "C:/Users/wildu/My project/Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.myproject-bfc88042ab4796a9\\libml_bluetoothle_plugin.so-f348c2bffad72292",
+   "xfrm_size": 14894
+  },
+  {
+   "compression": 8,
+   "hash": "bf7cac7093aef625f10e45548eabd2b4d3e5472a",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "238fbc6a04c9fed12417b0e557418f9d75379b52",
+   "xfrm_path": "C:/Users/wildu/My project/Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.myproject-bfc88042ab4796a9\\libml_camera_plugin.so-f348c2bffad72292",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "8d79ebf2b331aa9a6dafd21130fc2eea9d604408",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67616,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "08769b26b5a9a7700337ea667bd5a41da6cf7366",
+   "xfrm_path": "C:/Users/wildu/My project/Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.myproject-bfc88042ab4796a9\\libml_mediaplayer_plugin.so-f348c2bffad72292",
+   "xfrm_size": 68374
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "3b712c908a89b34aad72f55ced0c9078f17aec86",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 4039584,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "f4024f3b6b9d8d447680b994e0c232f00190e181",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 658928,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "0540424040d91e81d1a40d21862d0d0c2708c43c",
+   "pkgpath": "Data/RuntimeInitializeOnLoads.json",
+   "size": 2388,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/RuntimeInitializeOnLoads.json"
+  },
+  {
+   "compression": 8,
+   "hash": "f278f62e04e1e3e164b4cf7b5f61caf0069d0e45",
+   "pkgpath": "Data/ScriptingAssemblies.json",
+   "size": 3915,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/ScriptingAssemblies.json"
+  },
+  {
+   "compression": 8,
+   "hash": "12eea841309a3c140c3ba89a37f0764c8a5fa5e7",
+   "pkgpath": "Data/StreamingAssets/MLImageLibraries/ImageLibraryCache.asset",
+   "size": 406,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/StreamingAssets/MLImageLibraries/ImageLibraryCache.asset"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "4ee59e5921bfd8dcc0347cbbf587d6ca6b107f05",
+   "pkgpath": "Data/boot.config",
+   "size": 69,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "6d9fdc3210c03b54ba23fc7cd964550897ae897e",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 108964,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "7ba0dfcc4bcbb4eb773de727e1d34dfbf80902ef",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 288464,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "a5428fea48398bff324e734011e93b2ac84417bc",
+   "pkgpath": "Data/level0",
+   "size": 302536,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "1add6d3621a4d13afbea2784655a39b561906fb3",
+   "pkgpath": "Data/resources.assets",
+   "size": 24600,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "304c291e69dd7fab46b08e403410bc13a0dd0de8",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 349552,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "77ae05e531855fdfa852be19124875de1599942d",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 5401176,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "d8fe73b3a381514c1fb51878b4ede0e6a6360087",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 11147900,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "c6c8240c615351adba46bc4b343db106b26fe3b1",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 10496,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "eade943cd9669caa882e145ad75f665f9cd40216",
+   "pkgpath": "bin/Player.elf",
+   "size": 23044232,
+   "src": "C:/Users/wildu/My project/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2d565f137d51ee981187cbe9f5b4cb9b5701bde2",
+   "xfrm_path": "C:/Users/wildu/My project/Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.myproject-bfc88042ab4796a9\\Player.elf-4c39fe4f202ba5d4",
+   "xfrm_size": 23044990
+  },
+  {
+   "compression": 8,
+   "hash": "510e6bc2b8cf132f83182c221c6fce8b18fe6196",
+   "pkgpath": "manifest.xml",
+   "size": 1361,
+   "src": "C:\\Users\\wildu\\My project\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "726977495d7745d86bbb8742b670a8a1c57ff277",
+     "developer_id": "2509e396-4534-4666-b097-ec549ae6a656"
+    }
+   },
+   "xfrm_hash": "b29cac1613a3d90e7ef62e9aaf2e5ab6dc013325",
+   "xfrm_path": "C:/Users/wildu/My project/Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.defaultcompany.myproject-bfc88042ab4796a9\\manifest.xml-4c39fe4f202ba5d4",
+   "xfrm_size": 1373
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\wildu\\Downloads\\privatekey\\ml_cert.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

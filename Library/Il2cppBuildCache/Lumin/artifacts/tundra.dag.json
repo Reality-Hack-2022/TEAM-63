@@ -1,0 +1,171 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp C:/Users/wildu/My project/Library/Il2cppBuildCache/Lumin/Native/libil2cpp.so",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.32f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-stacktrace --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Lumin\" --architecture=\"ARM64\" --configuration=\"Release\" --outputpath=\"C:\\Users\\wildu\\My project\\Library/Il2cppBuildCache/Lumin\\Native\\libil2cpp.so\" --cachedirectory=\"C:\\Users\\wildu\\My project\\Assets\\..\\Library\\il2cpp_cache/il2cpp_cache\" --baselib-directory=\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/LuminSupport\\Variations/il2cpp/Release/arm64\" --avoid-dynamic-library-copy --verbose --enable-stats --stats-output-dir=\"C:/Users/wildu/My project/Assets/../Library/il2cpp_stats\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"C:/Users/wildu/My project/Temp/StagingArea/Data/Managed\" --generatedcppdir=\"C:/Users/wildu/My project/Library/Il2cppBuildCache/Lumin/il2cppOutput\" --stats-output-dir=\"C:/Users/wildu/My project/Library/Il2cppBuildCache/Lumin/il2cppStats\"",
+      "Inputs": [
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/LuminUnity.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/MagicLeap.MRTK.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/MagicLeapTools.Voice.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Async.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Demos.Audio.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Demos.Gltf.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Demos.InspectorFields.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Demos.UX.Interactables.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Examples.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Gltf.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.OpenXR.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Providers.XRSDK.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.SDK.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.SDK.Experimental.Interactive.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.CameraSystem.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputAnimation.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSimulation.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.InputSystem.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.SceneSystem.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Microsoft.MixedReality.Toolkit.Services.TeleportSystem.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/System.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/System.Numerics.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Unity.XR.InteractionSubsystems.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.LuminModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.XR.MagicLeap.dll",
+        "C:/Users/wildu/My project/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/LuminSupport/Variations/il2cpp/Release/arm64/baselib.a",
+        "\"C:/Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "C:/Users/wildu/My project/Library/Il2cppBuildCache/Lumin/Native/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/LuminSupport/Variations/il2cpp/Release/arm64"
+    },
+    {
+      "File": "../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "Path": "../../../../../../Program Files/Unity/Hub/Editor/2020.3.32f1/Editor/Data/PlaybackEngines/LuminSupport/Variations/il2cpp/Release/arm64",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
