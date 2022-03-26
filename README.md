@@ -1,7 +1,8 @@
 <img src="logo.png" height="250" width="250">
-# xrRx Snake
 
-AR game that helps treat ADHD.
+# Rx Vocabulary Viper
+
+AR game for Cognitive exercise, can help treat symptoms of ADHD and Dyslexia 
 
 
 ## Installation
@@ -9,6 +10,6 @@ AR game that helps treat ADHD.
 
 # Try it!
 
-Take a look at our Beta web app [HERE!](http://www..com/)
+Download the Android APK [HERE!](xXR-Snake.apk)
 
 [![Build Status](https://travis-ci.org/coderrick/drill.svg?branch=master)](https://travis-ci.org/coderrick/drill)
